@@ -1,1 +1,0 @@
-# Trustworthy-evaluation-of-cross-modal-semantic-learning-for-Image-Captioning
